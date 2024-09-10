@@ -1,6 +1,7 @@
 <?php
     include_once 'Views/partials/head.php';
     require_once 'data.php';
+    require_once 'function.php';
     var_dump($cars);
 
 
