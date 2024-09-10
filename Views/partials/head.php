@@ -13,12 +13,12 @@
   <div class="container-fluid">
     <a class="navbar-brand" href="/">
       <img src="/public/img/logo.png" alt="Logo le Poles" width="50" height="50" class="d-inline-block align-text-top">
-          Auto Repair
+          Auto-Sell
     </a>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" href="/">Home</a>
+          <a class="nav-link active" href="../../index.php">Home</a>
         </li>
       </ul>
     </div>
